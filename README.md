@@ -1,6 +1,6 @@
 # Zenith Finance
 
-[cloudflarebutton]
+[![Deploy to Cloudflare](https://deploy.workers.cloudflare.com/button)](https://deploy.workers.cloudflare.com/?url=https://github.com/simulanics/ZenithExpenseTracker)
 
 Zenith Finance is a modern, minimalist personal finance tracker designed for clarity and ease of use. It empowers users to effortlessly track their income and expenses through a clean, intuitive interface. The core of the application is an AI-powered analytics engine, utilizing the high-speed Groq API, which provides users with intelligent insights and actionable suggestions to improve their financial health. The application features a central dashboard for a quick financial overview, detailed transaction logs, visual analytics reports, and a dedicated AI chat interface for personalized financial advice. The entire experience is crafted to be visually stunning, responsive, and calming, transforming financial management from a chore into an empowering activity.
 
@@ -102,7 +102,7 @@ This project is configured for easy deployment to Cloudflare's global network.
 
 Wrangler will handle the process of uploading your assets and worker script. Once complete, it will provide you with the URL to your live application.
 
-[cloudflarebutton]
+[![Deploy to Cloudflare](https://deploy.workers.cloudflare.com/button)](https://deploy.workers.cloudflare.com/?url=https://github.com/simulanics/ZenithExpenseTracker)
 
 ## Contributing
 
