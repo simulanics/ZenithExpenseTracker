@@ -3,6 +3,7 @@
 [![Deploy to Cloudflare](https://deploy.workers.cloudflare.com/button)](https://deploy.workers.cloudflare.com/?url=https://github.com/simulanics/ZenithExpenseTracker)
 
 Demo Preview: https://build.cloudflare.dev/app/6a146c1d-68bf-4c82-8d35-b9cea742efae
+
 App: https://v1-zenith-finance-track-d05b2c69-e4ac-48cf-8f55-3a0cfe5636b7.build-preview.cloudflare.dev
 
 Zenith Finance is a modern, minimalist personal finance tracker designed for clarity and ease of use. It empowers users to effortlessly track their income and expenses through a clean, intuitive interface. The core of the application is an AI-powered analytics engine, utilizing the high-speed Groq API, which provides users with intelligent insights and actionable suggestions to improve their financial health. The application features a central dashboard for a quick financial overview, detailed transaction logs, visual analytics reports, and a dedicated AI chat interface for personalized financial advice. The entire experience is crafted to be visually stunning, responsive, and calming, transforming financial management from a chore into an empowering activity.
